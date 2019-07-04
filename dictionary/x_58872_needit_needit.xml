@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="needit" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element default="Enter id" display="true" label="id" max_length="50" name="id" type="string"/>
+        <element default="Enter name" label="name" max_length="30" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="area" max_length="40" name="number" type="string"/>
+    </element>
+</database>
